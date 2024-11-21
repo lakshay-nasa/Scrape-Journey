@@ -1,0 +1,4 @@
+scrapinghub==2.4.0
+Scrapy==2.11.2
+shub==2.15.4
+scrapy-zyte-api

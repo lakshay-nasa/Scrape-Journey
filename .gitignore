@@ -1,0 +1,71 @@
+# Byte-compiled / optimized / compiled Python files
+*.py[cod]
+*$py.class
+__pycache__/
+
+# Virtual environment
+venv/
+env/
+*.env
+
+# Logs and debugging
+*.log
+scrapy.log
+
+# Cache directories and files
+.cache/
+.eggs/
+*.egg-info/
+.scrapy/
+*.sqlite
+.pytest_cache/
+
+# Output directories
+output/
+feeds/
+export/
+data/
+results/
+
+# Environment-specific settings
+local_settings.py
+.senv
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Backup and temporary files
+*.tmp
+*.bak
+*.swp
+*.swo
+*.old
+
+# SQLite database files
+data/*.db
+
+# Jupyter Notebook checkpoints (if any)
+.ipynb_checkpoints/
+
+# Test coverage reports
+htmlcov/
+*.coverage
+
+# IDE-specific files
+# PyCharm / JetBrains
+.idea/
+# VS Code
+.vscode/
+
+# Node.js files (if used)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Streamlit cache
+.streamlit/
+
+# Compiled shared objects
+*.so
